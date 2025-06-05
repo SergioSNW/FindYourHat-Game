@@ -19,7 +19,7 @@ class Field {
 
   // Print method
   print() {
-    console.log('\n'.repeat(30));
+    console.clear();
     for (let row of this._field) {
       console.log(row.join(""));
     }
