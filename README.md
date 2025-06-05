@@ -2,5 +2,5 @@
 Node.js CLI Game with JavaScript
 
 
-If you are running on your machine.
-swap line 22 for [ console.clear(); ]
+To run in your machine, access the directory where the file is located 
+and execute   > node main.js
